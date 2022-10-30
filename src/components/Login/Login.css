@@ -42,11 +42,15 @@
 .form-submit {
     width: 415px;
     height: 55px;
-    /* background: rgba(255, 153, 0, 0.3); */
-    background: #FF99004D;
+    background: rgba(255, 153, 0, 0.3);
     border: none;
     border-radius: 5px;
     font-size: 20px;
+    cursor: pointer;
+}
+
+.form-submit:hover{
+    background: rgba(255, 153, 0, 0.5);
 }
 
 .user-query {

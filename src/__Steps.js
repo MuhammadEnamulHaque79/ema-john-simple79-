@@ -6,6 +6,9 @@
 (auth) and export default app;
 5.Authenticate and enable sign-in method;
 6.
+7.
+8.npm install --save react-firebase-hooks;
+9.
 */
 
 //firebase hosting steps;
